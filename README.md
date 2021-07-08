@@ -16,19 +16,20 @@ O NLW é uma experiência online com muito conteúdo prático, desafios, hacks e
 
 ## Iniciar projeto
 
-Clone o projeto
+Clone o projeto:
 
 ```bash
 $ git clone https://github.com/giomovini/letmeask-rocketseat
 $ cd letmeask
 ```
 
-Instale as dependências
+Instale as dependências:
 ```bash
 # Install the dependencies
 $ yarn install
 $ yarn install 'react-router-dom --dev'
 
-# Start the project
-$ yarn start
 ```
+Inicie o projeto:
+```
+$ yarn start
